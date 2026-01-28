@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53730538511",
+    "project_id": "student-learning-ms",
+    "storage_bucket": "student-learning-ms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53730538511:android:b8db8b9e28106141a8df7a",
+        "android_client_info": {
+          "package_name": "com.example.student_lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1ctNa42utARNb_Q8BxEEr_jh9014EV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
