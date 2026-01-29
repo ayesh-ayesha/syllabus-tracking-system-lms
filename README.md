@@ -26,19 +26,18 @@ This application solves the common problem of **"Syllabus Confusion"** in coachi
 
 ### 📸 Screenshots
 
-| Student Dashboard | Progress Tracker | Admin Panel |
-|:---:|:---:|:---:|
-| <img src="screenshots/student_home.png" width="200" alt="Student Home"> | <img src="screenshots/progress.png" width="200" alt="Progress"> | <img src="screenshots/admin.png" width="200" alt="Admin"> |
+|                               Student Dashboard                               |                             Progress Tracker                             |                             Admin Panel                              |
+|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| <img src="screenshots/student Dashboard.jpeg" width="200" alt="Student Home"> | <img src="screenshots/progress tracker.jpeg" width="200" alt="Progress"> | <img src="screenshots/admin dashboard.jpeg" width="200" alt="Admin"> |
 
-*(Note: Please upload screenshots to a 'screenshots' folder in your repo)*
 
 ---
 
 ### 🛠️ Tech Stack
-* **Frontend:** [Flutter / Java / Kotlin / React Native - CHANGE THIS TO YOUR TECH]
-* **Backend:** [Firebase / Node.js / SQL - CHANGE THIS TO YOUR TECH]
+* **Frontend:** [Flutter]
+* **Backend:** [Firebase]
 * **Architecture:** MVVM Pattern
-* **Tools:** VS Code, Git
+* **Tools:** Android Studio, Git
 
 ---
 
@@ -51,6 +50,6 @@ This project focuses purely on **Accountability**:
 ---
 
 ### 📬 Contact
-**Developed by [Your Name]**
-* **LinkedIn:** [Link to your Profile]
-* **Email:** [Your Email]
+**Developed by [Ayesha Siddiqa]**
+* **LinkedIn:** [www.linkedin.com/in/ayesha-siddiqa-85690224b]
+* **Email:** [ayeshasiddiqa1087@gmail.com]
