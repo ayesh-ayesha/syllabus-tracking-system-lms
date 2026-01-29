@@ -50,6 +50,6 @@ This project focuses purely on **Accountability**:
 ---
 
 ### 📬 Contact
-**Developed by [Ayesha Siddiqa]**
-* **LinkedIn:** [www.linkedin.com/in/ayesha-siddiqa-85690224b]
-* **Email:** [ayeshasiddiqa1087@gmail.com]
+**Developed by Ayesha Siddiqa**
+* **LinkedIn:** www.linkedin.com/in/ayesha-siddiqa-85690224b
+* **Email:** ayeshasiddiqa1087@gmail.com
