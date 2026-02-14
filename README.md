@@ -10,7 +10,7 @@ A **Flutter-based mobile application** designed to help educational institutes *
 
 Instead of hosting learning material, the app focuses on **clarity and accountability** by providing students with a checklist-style roadmap of course outlines, while allowing admins to manage courses, enroll students, and view progress.
 
-🎥 **Demo Video:** https://drive.google.com/file/d/1IYfQ4xl9m7QbBW9zl6sMIQGcMXyT7-on/view?usp=sharing
+🎥 **Demo Video:** [https://drive.google.com/file/d/1IYfQ4xl9m7QbBW9zl6sMIQGcMXyT7-on/view?usp=sharing](https://drive.google.com/file/d/1hzEeWTO3I2UjeY_5JMbtYWKw0CLl5SYx/view?usp=sharing)
 
 ---
 
